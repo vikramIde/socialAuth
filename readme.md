@@ -18,6 +18,7 @@ open terminal and jump inside your repository
 
 
 Run the following command in artisan 
+
    php artisan migrate
 
 	if everything goes fine you can see the related table in database.
