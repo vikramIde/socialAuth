@@ -32,7 +32,7 @@ Click on the login  link at the top left corner
 
 You can ask me queries here
 
-[![LinkedIn](https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png)](https://in.linkedin.com/in/vikrambanand
+[![LinkedIn](https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png)](https://in.linkedin.com/in/vikrambanand
 )
 
 Thank you 
