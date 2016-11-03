@@ -1,11 +1,5 @@
 # Social Login using L5+Socialite
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
-
 A simple demonstration for Social Login using Laravel 5 and Socialite package.
 
 To use this Follow following steps
@@ -35,5 +29,11 @@ Click on the login  link at the top left corner
 
   To Login using Fb/Google just click 
 
+
+You can ask me queries here
+
+[![AddMe](https://in.linkedin.com/in/vikrambanand)](https://in.linkedin.com/in/vikrambanand
+)
+[![HireMe](http://stackoverflow.com/users/3196956/vikram)](http://stackoverflow.com/users/3196956/vikram)
 
 Thank you 
