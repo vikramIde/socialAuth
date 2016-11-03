@@ -32,8 +32,7 @@ Click on the login  link at the top left corner
 
 You can ask me queries here
 
-[![AddMe](https://in.linkedin.com/in/vikrambanand)](https://in.linkedin.com/in/vikrambanand
+[![LinkedIn](https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png)](https://in.linkedin.com/in/vikrambanand
 )
-[![HireMe](http://stackoverflow.com/users/3196956/vikram)](http://stackoverflow.com/users/3196956/vikram)
 
 Thank you 
