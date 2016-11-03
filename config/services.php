@@ -36,14 +36,14 @@ return [
     ],
 
     'facebook' => [
-        'client_id' => '1767350623526171',
-        'client_secret' => '382c1f81dea4a50dd55b0dd4c80def23',
+        'client_id' => 'yourclientid',
+        'client_secret' => 'Its-A-Secret',
         'redirect' => 'http://localhost:8000/callback/facebook',
     ],
 
     'google' => [
-        'client_id' => '679807988960-ta8bd0d43fse8hsg9kldkqbpgm5dhl5f.apps.googleusercontent.com',
-        'client_secret' => 'dBB0cirgWvKkwvIPSRbMWu4S',
+        'client_id' => 'yourclientid',
+        'client_secret' => 'Its-A-Secret',
         'redirect' => 'http://localhost:8000/callback/google',
     ],
 
