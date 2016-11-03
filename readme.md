@@ -10,13 +10,22 @@ A simple demonstration for Social Login using Laravel 5 and Socialite package.
 
 To use this Follow following steps
 
-1. Clone the repo
-2. Run the following command in artisan 
+1.Clone the repo
+2.Then create a database called 'laravel'
+3.open terminal and jump inside your repository
+
+4. Run the following command in artisan 
+   php artisan migrate
+	if everything goes fine you can see the related table in database.
+
    php artisan serve 
 
-3. Then open your  browser to 
+5. Then open your  browser to 
 	http://localhost:8000
 
-4.Click on the login  link at the top left corner
+6.Click on the login  link at the top left corner
+  To login using the normal authentication First click on register 
+  To Login using Fb/Google just click 
 
-Thank you for using this Idea
+
+Thank you 
